@@ -1,6 +1,4 @@
 streamlit
 streamlit_chat
-python-dotenv
-langchain
 requests
-fireworks-ai
+python-dotenv
