@@ -268,4 +268,4 @@ if st.session_state["generated"]:
             message(st.session_state["past"][i], is_user=True, key=f"user_{i}")
 
 st.markdown("---")
-st.markdown("**Notes**: This app uses your Dobby model on Fireworks for analysis and Spoonacular for recipe data. Put keys in environment variables: FIREWORKS_API_KEY, FIREWORKS_MODEL (optional), SPOONACULAR_API_KEY.")
+st.markdown("**Notes**: This app uses your Dobby model-Llama-3.3-70B.")
